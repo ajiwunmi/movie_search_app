@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "wUeGok9c6WH3dPTHIDu+aaYtf/ZmRCsxzOh0c3rg51I=",
+  "Source": "MovieSearchApp.Server",
+  "BasePath": "_content/MovieSearchApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\C#_BOOTCAMP\\profileProjects\\MovieSearchApp\\moviesearchapp.client\\moviesearchapp.client.esproj",
+      "Version": 2,
+      "Source": "moviesearchapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

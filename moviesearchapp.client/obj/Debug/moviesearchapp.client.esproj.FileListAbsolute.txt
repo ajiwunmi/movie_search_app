@@ -1,0 +1,1 @@
+C:\C#_BOOTCAMP\profileProjects\MovieSearchApp\moviesearchapp.client\obj\Debug\moviesearchapp.client.esproj.CoreCompileInputs.cache
